@@ -1,0 +1,5 @@
+#entire chart is metadata of your application
+apiVersion: v2
+name: nginx
+version: 0.0.1 #this is the chart version
+description:  #this is the helm chart of nginx
